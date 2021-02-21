@@ -20,7 +20,7 @@
 	🚀  Diagrama UML  🚀
 </h4>
 
-![SignUp Mobile](https://github.com/ifeslopes/Chess-system-java/blob/master/chess-system-design.png)
+![SignUp Mobile](https://github.com/ifeslopes/workshop-spring-boot-mongodb/blob/master/Captura%20de%20tela%20de%202021-02-20%2021-16-25.png)
 
 <h3 align="center"> 
 	✅  Concluido
